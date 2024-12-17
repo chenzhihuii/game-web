@@ -4,4 +4,5 @@ menggunakan bahasa pemrograman JavaScript dan HTML, juga menggunakan CSS untuk t
 alhamdulillah the game app finally fixed.
 
 - NOTES
+
 The source code and PDF documents are my own work and are protected by copyright. Any use, distribution, or retrieval without written permission is considered an infringement and will be strictly penalized!.
