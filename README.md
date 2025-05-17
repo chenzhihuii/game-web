@@ -1,7 +1,5 @@
 # game-web
-Ini adalah game 2048 sederhana yang dijalankan melalui web.
-menggunakan bahasa pemrograman JavaScript dan HTML, juga menggunakan CSS untuk tampilan yang lebih menarik.
-alhamdulillah the game app finally fixed.
+A web-based version of the classic 2048 game. The application is built using HTML, CSS, and vanilla JavaScript, encapsulating the game logic within a single JavaScript file. To ensure consistent deployment across environments, I containerized the application using Docker, allowing it to run seamlessly on Ubuntu systems.
 
 - NOTES
 
